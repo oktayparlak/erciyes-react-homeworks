@@ -1,18 +1,12 @@
-import React from 'react'
-import Navbar from './components/Navbar'
-import Header from './components/Header'
-import PageContent from './components/PageContent'
-import Footer from './components/Footer'
+import React from "react";
+import ProductTable from "./productsHomework/ProductTable";
 
 function App() {
   return (
     <>
-    <Navbar/>
-    <Header/>
-    <PageContent/>
-    <Footer/>
+      <ProductTable />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
