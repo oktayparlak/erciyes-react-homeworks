@@ -1,10 +1,10 @@
 import React from "react";
-import ProductTable from "./productsHomework/ProductTable";
+import SuppSample from './fetchHomework/SuppSample';
 
 function App() {
   return (
     <>
-      <ProductTable />
+      <SuppSample />
     </>
   );
 }
