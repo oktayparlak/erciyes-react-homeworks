@@ -1,10 +1,10 @@
 import React from "react";
-import SuppSample from './fetchHomework/SuppSample';
+import AppViews from './views/AppViews';
 
 function App() {
   return (
     <>
-      <SuppSample />
+      <AppViews />
     </>
   );
 }
